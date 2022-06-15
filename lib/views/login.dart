@@ -58,6 +58,7 @@ class Login extends StatelessWidget {
                     Container(
                       margin: EdgeInsets.only(top: 20),
                       child: TextFormField(
+                          obscureText: true,
                           decoration: InputDecoration(
                             labelText: "Senha",
                           ),

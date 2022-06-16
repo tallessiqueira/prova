@@ -138,7 +138,7 @@ class Registro extends StatelessWidget {
                           child: Text(
                             "Ao cadastrar o usuário estará concordando com os termos de uso do aplicativo no site oficial",
                             textAlign: TextAlign.center,
-                            style: TextStyle(fontSize: 10, color: Colors.black),
+                            style: TextStyle(fontSize: 10),
                           ),
                         ),
                         Container(
